@@ -1,0 +1,3 @@
+<launch>
+  <node name="pilot_udp_receiver" type="pilot_udp_receiver" pkg="car_adapters" output="screen" />
+</launch>
